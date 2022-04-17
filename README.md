@@ -1,0 +1,2 @@
+# simplefoam
+simplefoam case
